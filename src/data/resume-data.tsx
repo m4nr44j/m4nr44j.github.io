@@ -9,21 +9,18 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Manraaj Singh",
+  initials: "MS",
+  location: "Massachusetts, USA",
+  locationLink: "https://www.google.com/maps/place/Massachusetts",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "CS + Math at Dartmouth College",
   summary: (
     <>
-      Frontend-focused Full Stack Engineer specializing in high-performance
-      React applications, scalable Node.js services, and real-time collaboration
-      systems. Experienced in technical architecture design and remote team
-      leadership.
+      I am student at Dartmouth College, pursuing an interest in Applied Mathematics and Computer Science. I am interested in software engineering (full-stack, back-end, DevOps) and artifical intelligence (deep learning, natural language processing, computer vision). This summer, I will be joining Kenvue as a Software Engineering Intern.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/81168965?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "bartosz.jarocki@hey.com",
